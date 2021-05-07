@@ -40,7 +40,7 @@ var c2url string = ""
 
 func main() {
 	// TODO: take c2url from cli flag
-	c2url = "http://192.168.2.21"
+	c2url = "http://localhost"
 
 	run()
 }
